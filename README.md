@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile
 
-![Design preview for the Social links profile coding challenge](./design/desktop-preview.jpg)
+![desktop-preview](https://github.com/sachidumaleesha/social-links-profile/assets/45502921/47098701-34fd-4a2c-aee1-2492ec30fed8)
 
 ## Welcome! 👋
 
