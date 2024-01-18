@@ -22,11 +22,11 @@ export default function Home() {
 
       {/* Social Links */}
       <div className='flex flex-col gap-5'>
-        <p className='bg-[#333333] text-center py-3 px-1 font-semibold rounded-lg'>Github</p>
-        <p className='bg-[#333333] text-center py-3 px-1 font-semibold rounded-lg'>Frontend Mentor</p>
-        <p className='bg-[#333333] text-center py-3 px-1 font-semibold rounded-lg'>Linkedin</p>
-        <p className='bg-[#333333] text-center py-3 px-1 font-semibold rounded-lg'>Twitter</p>
-        <p className='bg-[#333333] text-center py-3 px-1 font-semibold rounded-lg'>Instagram</p>
+        <p className='bg-[#333333] text-center py-3 px-1 font-semibold rounded-lg hover:bg-[#c5f82a] hover:text-gray-800 cursor-pointer'>Github</p>
+        <p className='bg-[#333333] text-center py-3 px-1 font-semibold rounded-lg hover:bg-[#c5f82a] hover:text-gray-800 cursor-pointer'>Frontend Mentor</p>
+        <p className='bg-[#333333] text-center py-3 px-1 font-semibold rounded-lg hover:bg-[#c5f82a] hover:text-gray-800 cursor-pointer'>Linkedin</p>
+        <p className='bg-[#333333] text-center py-3 px-1 font-semibold rounded-lg hover:bg-[#c5f82a] hover:text-gray-800 cursor-pointer'>Twitter</p>
+        <p className='bg-[#333333] text-center py-3 px-1 font-semibold rounded-lg hover:bg-[#c5f82a] hover:text-gray-800 cursor-pointer'>Instagram</p>
       </div>
     </div>
    </main>
